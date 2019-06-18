@@ -18,4 +18,6 @@ namespace BeautyForestAgent
             Application.Run(new Form1());
         }
     }
+
+
 }
